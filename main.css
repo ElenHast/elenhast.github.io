@@ -1,12 +1,12 @@
 .body {
-  background-color: #e5e5f7;
+  background-color: #8f8fd5;
   opacity: 0.7;
   background-image:  linear-gradient(#dd9751 1px, transparent 1px), linear-gradient(to right, #dd9751 1px, #242427 1px);
   background-size: 20px 20px;
 }
 
 .title {
-  background: #000;
+  background: rgb(255, 214, 214);
   position:sticky;
   margin-left: -100px;
   right: 40%;
