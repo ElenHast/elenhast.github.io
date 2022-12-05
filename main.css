@@ -32,8 +32,8 @@
 }
 
 .box {
-  background: rgba(19, 17, 17, 0.647);
-  border: 5px solid rgba(255, 228, 228, 0.104);
+  background: rgba(243, 243, 243, 0.913);
+  border: 5px solid rgba(0, 0, 0, 0.104);
   border-radius: 5px;
   position: sticky;
   right: 40%;
