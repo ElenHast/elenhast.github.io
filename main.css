@@ -1,6 +1,6 @@
 .dark {
   background: #222;
-  color: #FFF;
+  color: rgb(20, 17, 17);
 }
 
 .title {
@@ -41,8 +41,8 @@
   margin-left: -100px;
 }
 .boxlinks {
-  background: #bb9f9f;
-  border: 5px solid rgb(27, 21, 21);
+  background: #b5b5b5;
+  border: 5px solid rgb(255, 237, 237);
   border-radius: 5px;
   position: sticky;
   right: 40%;
