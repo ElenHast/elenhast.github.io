@@ -1,3 +1,9 @@
+.background {
+  background-color: #000000;
+  opacity: 1;
+  background: linear-gradient(135deg, #30305155 25%, transparent 25%) -32px 0/ 64px 64px, linear-gradient(225deg, #303051 25%, transparent 25%) -32px 0/ 64px 64px, linear-gradient(315deg, #30305155 25%, transparent 25%) 0px 0/ 64px 64px, linear-gradient(45deg, #303051 25%, #000000 25%) 0px 0/ 64px 64px;
+}
+
 .body {
   background-color: #8f8fd5;
   opacity: 1;
