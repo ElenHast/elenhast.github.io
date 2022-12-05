@@ -30,8 +30,8 @@
 }
 
 .box {
-  background: #000;
-  border: 5px solid #000;
+  background: rgb(255, 241, 241);
+  border: 5px solid rgb(255, 228, 228);
   border-radius: 5px;
   position: sticky;
   right: 40%;
@@ -41,8 +41,8 @@
   margin-left: -100px;
 }
 .boxlinks {
-  background: #cd3333;
-  border: 5px solid #FFF;
+  background: #bb9f9f;
+  border: 5px solid rgb(27, 21, 21);
   border-radius: 5px;
   position: sticky;
   right: 40%;
