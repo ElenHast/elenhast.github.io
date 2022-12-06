@@ -8,7 +8,8 @@
   background: rgb(255, 255, 255);
   opacity: 1;
   position:sticky;
-  margin-left: -100px;
+  margin: auto;
+  margin-left: auto;
   right: 40%;
   left: 40%;
   width: 300px;
@@ -22,10 +23,10 @@
 .images {
   position: sticky;
   right: 40%;
-  left: 40%;
+  left: 42%;
   width: 300px;
-  margin: 10px auto;
-  margin-left: -100px;
+  margin: auto;
+  margin-left: auto;
   border: 5px solid #ff7cff;
   padding: 20;
   border-radius: 5px;
@@ -39,8 +40,8 @@
   right: 40%;
   left: 40%;
   width: 300px;
-  margin: 10px auto;
-  margin-left: -100px;
+  margin: auto;
+  margin-left: auto;
 }
 .boxlinks {
   background: #b5b5b5;
@@ -48,21 +49,19 @@
   border-radius: 12px;
   position: sticky;
   right: 40%;
-  left: 40%;
+  left: 42%;
   width: 290px;
-  margin: 10px auto;
-  margin-left: 591px;
+  margin: auto;
+  margin-left: auto;
 }
 
 .nicebox {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  width: 161px;
   cursor: pointer;
   padding: 20px;
   overflow: hidden;
-  border: none;
   -webkit-border-radius: 11px;
   border-radius: 11px;
   font: normal 16px/1 Arial Black, Gadget, sans-serif;
@@ -82,10 +81,12 @@
   -webkit-box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
   box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
   text-shadow: 1px 1px 1px rgba(10,34,255,0.58) ;
-  position: relative;
-  right: auto;
-  left: 50%;
-  width: 270px;
-  margin: 10px auto;
-  margin-left: -197px;
+  position: sticky;
+  right: 40%;
+  left: 40%;
+  width: 290px;
+  margin: auto;
+  margin-left: auto;
 }
+
+
