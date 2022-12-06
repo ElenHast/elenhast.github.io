@@ -44,12 +44,42 @@
 }
 .boxlinks {
   background: #b5b5b5;
-  border: 5px solid rgb(255, 237, 237);
-  border-radius: 5px;
+  border: 5px solid rgb(45, 73, 225, 0.77);
+  border-radius: 12px;
   position: sticky;
   right: 40%;
   left: 40%;
-  width: 300px;
+  width: 290px;
   margin: 10px auto;
-  margin-left: -100px;
+  margin-left: 591px;
+}
+
+.nicebox {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  width: 161px;
+  cursor: pointer;
+  padding: 20px;
+  overflow: hidden;
+  border: none;
+  -webkit-border-radius: 11px;
+  border-radius: 11px;
+  font: normal 16px/1 Arial Black, Gadget, sans-serif;
+  color: rgba(255,255,255,1);
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  background: -webkit-linear-gradient(-90deg, rgba(7,10,2,1) 0, rgba(77,61,96,1) 100%);
+  background: -moz-linear-gradient(180deg, rgba(7,10,2,1) 0, rgba(77,61,96,1) 100%);
+  background: linear-gradient(180deg, rgba(7,10,2,1) 0, rgba(77,61,96,1) 100%);
+  background-position: 50% 50%;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: auto auto;
+  background-size: auto auto;
+  -webkit-box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
+  box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
+  text-shadow: 1px 1px 1px rgba(10,34,255,0.58) ;
 }
