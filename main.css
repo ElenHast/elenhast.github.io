@@ -82,10 +82,10 @@
   -webkit-box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
   box-shadow: 5px 4px 8px 0 rgba(82,38,204,0.7) ;
   text-shadow: 1px 1px 1px rgba(10,34,255,0.58) ;
-  position: absolute;
-  right: 40%;
-  left: 40%;
-  width: 290px;
+  position: relative;
+  right: auto;
+  left: 50%;
+  width: 270px;
   margin: 10px auto;
-  margin-left: 591px;
+  margin-left: -197px;
 }
