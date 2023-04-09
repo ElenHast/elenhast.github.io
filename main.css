@@ -101,6 +101,33 @@ button[type="submit"]:hover {
   left: 0;
   }
 
+  /* Image */
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 20px;
+  padding: 5px;
+  background: #9b59b6;
+  color: #fff;
+  font: normal 16px/1 Arial Black, sans-serif;
+  text-align: center;
+  border-radius: 11px;
+  text-shadow: 2px 2px 4px #4c265e;
+  cursor: default;
+  overflow: hidden;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  position: sticky;
+  width: 320px;
+  right: 0;
+  left: 0;
+  }
+
 /* Title styles */
 .title {
   background-color: #8e44ad;
@@ -113,6 +140,7 @@ button[type="submit"]:hover {
   text-shadow: 2px 2px 4px #4c265e;
 }
 
+/* Phrases Slider */
 .text-box {
   background-color: #9b59b6;
   color: #fff;
